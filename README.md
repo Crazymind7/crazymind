@@ -11,7 +11,6 @@ SuperMind is a web application that integrates a Django backend with a React fro
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
